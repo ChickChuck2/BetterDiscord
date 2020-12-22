@@ -167,3 +167,7 @@ background-color: rgba(0, 0, 0, 0.123);
 #bd-pub-button {
     background-color: rgba(0, 20, 20, 0.123);
 }
+.emptyCard-1RJw8n,
+.nowPlayingColumn-2sl4cE {
+    background-color: transparent;
+}
