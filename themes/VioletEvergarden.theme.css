@@ -179,4 +179,5 @@ background-color: rgba(0, 0, 0, 0.123);
 .markup-2BOw-j {
     color: green;
     outline-color: black;
+    outline-offset: 9px;
 }
