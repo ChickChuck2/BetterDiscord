@@ -180,7 +180,10 @@ background-color: rgba(0, 0, 0, 0.123);
 .emptyCard-1RJw8n,
 .wrapper-3D2qGf,
 .topSectionPlaying-1J5E4n,
-.theme-dark .inset-3sAvek,
+.theme-dark .inset-3sAvek {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+
 .nowPlayingColumn-2sl4cE,
 .headerSpotify-zpWxgT {
     background-color: transparent;
