@@ -99,9 +99,15 @@
 .chat-3bRxxu{
     background-color: transparent;
 }
-.privateChannels-1nO12o,
-.sidebar-2K8pFh,
-.scroller-1JbKMe,
+.privateChannels-1nO12o {
+    background-color: transparent;
+}
+.sidebar-2K8pFh {
+    background: transparent;
+}
+.scroller-1JbKMe {
+    background-color: transparent;
+}
 .thin-1ybCId,
 .scrollerBase-289Jih,
 .fade-2kXiP2 {
