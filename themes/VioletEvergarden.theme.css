@@ -210,13 +210,13 @@ background-color: rgba(0, 0, 0, 0.123);
 .name-uJV0GL {
     color: white;
     text-shadow:
-    2px 0 0 #f00,
-    -2px 0 0 #f00,
-    0 2px 0 #f00,
-    0 -2px 0 #f00,
-    1px 1px #f00,
-    -1px -1px 0 #f00,
-    1px -1px 0 #f00,
-    -1px 1px 0 #f00;
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0),
+    0 2px 0 rgb(0, 0, 0),
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0),
+    -1px -1px 0 rgb(0, 0, 0),
+    1px -1px 0 rgb(0, 0, 0),
+    -1px 1px 0 rgb(0, 0, 0);
 
 }
