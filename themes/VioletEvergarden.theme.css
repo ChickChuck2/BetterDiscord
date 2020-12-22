@@ -177,7 +177,26 @@ background-color: rgba(0, 0, 0, 0.123);
 }
 /*text*/
 .markup-2BOw-j {
-    color: green;
-    outline-color: black;
-    outline-offset: 9px;
+    text-shadow: 
+     2px 0 0 #f00,
+     -2px 0 0 #f00, 
+     0 2px 0 #f00, 
+     0 -2px 0 #f00,
+     1px 1px #f00, 
+     -1px -1px 0 #f00, 
+     1px -1px 0 #f00, 
+     -1px 1px 0 #f00;
+}
+.name-uJV0GL {
+    color: white;
+    text-shadow:
+    2px 0 0 #f00,
+    -2px 0 0 #f00,
+    0 2px 0 #f00,
+    0 -2px 0 #f00,
+    1px 1px #f00,
+    -1px -1px 0 #f00,
+    1px -1px 0 #f00,
+    -1px 1px 0 #f00;
+
 }
