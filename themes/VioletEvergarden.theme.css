@@ -169,6 +169,7 @@ background-color: rgba(0, 0, 0, 0.123);
 }
 .emptyCard-1RJw8n,
 .wrapper-3D2qGf,
+.topSectionPlaying-1J5E4n,
 .nowPlayingColumn-2sl4cE {
     background-color: transparent;
 }
@@ -178,14 +179,14 @@ background-color: rgba(0, 0, 0, 0.123);
 /*text*/
 .markup-2BOw-j {
     text-shadow: 
-     2px 0 0 #f00,
-     -2px 0 0 #f00, 
-     0 2px 0 #f00, 
-     0 -2px 0 #f00,
-     1px 1px #f00, 
-     -1px -1px 0 #f00, 
-     1px -1px 0 #f00, 
-     -1px 1px 0 #f00;
+     2px 0 0 rgb(0, 60, 255),
+     -2px 0 0 rgb(0, 60, 255), 
+     0 2px 0 rgb(0, 60, 255), 
+     0 -2px 0 rgb(0, 60, 255),
+     1px 1px rgb(0, 60, 255), 
+     -1px -1px 0 rgb(0, 60, 255), 
+     1px -1px 0 rgb(0, 60, 255), 
+     -1px 1px 0 rgb(0, 60, 255);
 }
 .name-uJV0GL {
     color: white;
