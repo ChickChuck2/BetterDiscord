@@ -105,7 +105,7 @@
 .thin-1ybCId, 
 .scrollerBase-289Jih, 
 .fade-2kXiP2 {
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.423);
 }
 .searchBarComponent-32dTOx{
     background-color: rgba(0, 0, 0, 0.123);
@@ -198,7 +198,7 @@ background-color: rgba(0, 0, 0, 0.123);
     background-color: transparent;
 }
 .markup-2BOw-j a {
-    color: lawngreen var(--text-link);
+    color: rgb(252, 0, 0) var(--text-link);
 }
 .name-uJV0GL {
     color: white;
