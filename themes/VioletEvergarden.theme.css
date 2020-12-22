@@ -101,11 +101,12 @@
 }
 .privateChannels-1nO12o,
 .sidebar-2K8pFh,
-.scroller-1JbKMe, 
-.thin-1ybCId, 
+.scroller-1JbKMe,
+.thin-1ybCId,
 .scrollerBase-289Jih,
 .fade-2kXiP2 {
     background-color: transparent;
+    background: transparent;
 }
 .searchBarComponent-32dTOx{
     background-color: rgba(0, 0, 0, 0.123);
