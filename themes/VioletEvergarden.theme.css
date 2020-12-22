@@ -171,11 +171,16 @@ background-color: rgba(0, 0, 0, 0.123);
 .wrapper-3D2qGf,
 .topSectionPlaying-1J5E4n,
 .theme-dark .inset-3sAvek,
-.nowPlayingColumn-2sl4cE {
+.nowPlayingColumn-2sl4cE,
+.headerSpotify-zpWxgT {
     background-color: transparent;
 }
 .wrapper-2qzCYF.minimum-28Z35l {
     background-color: transparent;
+}
+.theme-dark .root-1gCeng,
+.theme-dark .footer-2gL1pp {
+    background-color: rgba(0, 0, 0, 0.523);
 }
 /*text*/
 .markup-2BOw-j {
@@ -188,6 +193,12 @@ background-color: rgba(0, 0, 0, 0.123);
      -1px -1px 0 rgb(0, 53, 0), 
      1px -1px 0 rgb(0, 53, 0), 
      -1px 1px 0 rgb(0, 53, 0);
+}
+.childWrapper-anI2G9 {
+    background-color: transparent;
+}
+.markup-2BOw-j a {
+    color: lawngreen var(--text-link);
 }
 .name-uJV0GL {
     color: white;
