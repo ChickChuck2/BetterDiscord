@@ -207,9 +207,15 @@ background-color: rgba(0, 0, 0, 0.123);
      1px -1px 0 rgb(0, 0, 0), 
      -1px 1px 0 rgb(0, 0, 0);
 }
+.icon-2IuuZd {
+    color: black;
+}
 .childWrapper-anI2G9 {
     color: white;
     background-color: transparent;
+}
+.applicationStore-1pNvnv {
+    background-color: #36393f9e;
 }
 .markup-2BOw-j a {
     color: rgb(252, 0, 0) var(--text-link);
