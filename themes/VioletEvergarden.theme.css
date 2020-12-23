@@ -231,5 +231,8 @@ background-color: rgba(0, 0, 0, 0.123);
     -1px -1px 0 rgb(0, 0, 0),
     1px -1px 0 rgb(0, 0, 0),
     -1px 1px 0 rgb(0, 0, 0);
-
+}
+.theme-dark .invite-18yqGF {
+    background-color: slategray;
+    background: gray;
 }
