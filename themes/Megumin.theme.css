@@ -173,3 +173,7 @@
     background-size: cover;
     background-position: -250px;
 }
+.bd-addon-list .bd-addon-card,
+.bd-addon-list .bd-addon-header {
+    background-color: rgba(0, 0, 0, 0.223);
+}
