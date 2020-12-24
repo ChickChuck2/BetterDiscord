@@ -1,2 +1,2 @@
 # BetterDiscord
-My Plugins and Themes Editeds :D
+My Themes Created by me
