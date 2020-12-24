@@ -1,0 +1,175 @@
+/**
+ * @name Konosuba -Megumin
+ * @author ChickChuck2
+ * @authorId 462768330005282816
+ * @version ersion auto update
+ * @description A biuriful theme of megumin of konosuba
+*/
+
+.app-2rEoOp {
+    background: url(https://images3.alphacoders.com/704/704387.png);
+    background-size: cover;
+}
+.chat-3bRxxu, .threadSidebar-1o3BTy {
+    background-color: transparent;
+}
+.bg-h5JY_x {
+    background-color: transparent;
+}
+.sidebar-2K8pFh {
+    background-color: transparent;
+}
+.container-3w7J-x {
+    background-color: transparent;
+}
+.members-1998pB, .members-1998pB>div {
+
+    background-color: transparent;
+}
+.container-1r6BKw.themed-ANHk51 {
+    background-color: transparent;
+}
+.children-19S4PO:after {
+    position: unset;
+}
+.scroller-2TZvBN,
+.wrapper-1Rf91z {
+    background-color: transparent;
+}
+.scrollableContainer-2NUZem {
+    background-color: transparent;
+}
+.channelTextArea-rNsIhG {
+    background: linear-gradient(65deg, rgba(172, 28, 28, 0.185) 92%, rgba(255, 0, 0, 0.178) 89%);
+}
+.scroller-1JbKMe{
+    background-color: transparent;
+}
+.privateChannels-1nO12o {
+    background-color: transparent;
+}
+.panels-j1Uci_ {
+    background-color: transparent;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background-color: rgba(1, 1, 1, 0.277);
+}
+.searchBar-3dMhjb {
+    background-color: rgba(1, 1, 1, 0.277);
+}
+#bd-pub-button {
+    background-color: rgba(1, 1, 1, 0.277);
+}
+.theme-dark .form-2fGMdU:before {
+    position: unset;
+}
+.root-SR8cQa {
+    background-image: url(https://images5.alphacoders.com/782/782913.png);
+    background-size: cover;
+    background-position: -140px;
+}
+.topSectionNormal-2-vo2m {
+    background-color: transparent;
+}
+.body-3ND3kc {
+    background-color: transparent;
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    background-color: transparent;
+}
+.layer-3QrUeG {
+    background-color: transparent;
+}
+.standardSidebarView-3F1I7i {
+    background-image: url(https://images5.alphacoders.com/782/782977.png);
+    background-size:cover;
+}
+.sidebarRegionScroller-3MXcoP {
+    background-color: transparent;
+}
+.contentRegion-3nDuYy {
+    background-color: transparent;
+}
+.contentRegionScroller-26nc1e {
+    background-color: transparent;
+}
+.background-1QDuV2 {
+    background-color: rgba(1, 1, 1, 0.277);
+}
+.fieldList-21DyL8 {
+    background-color: rgba(1, 1, 1, 0.277);
+}
+.topSectionPlaying-1J5E4n {
+    background-color: transparent;
+}
+.theme-dark .container-1D34oG {
+    background-color: transparent;
+}
+.emptyCard-1RJw8n,
+.wrapper-3D2qGf,
+.topSectionPlaying-1J5E4n{
+    background-color: transparent;
+}
+.theme-dark .inset-3sAvek {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+
+.nowPlayingColumn-2sl4cE,
+.headerSpotify-zpWxgT {
+    background-color: transparent;
+}
+.childWrapper-anI2G9 {
+    background-color: transparent;
+}
+.attachment-33OFj0 {
+    background-color: transparent;
+    border-color: red;
+    border-radius: 20px;
+    border-bottom:double 8px red;
+}
+.theme-dark .uploadModal-2ifh8j {
+    background-image: url(https://images6.alphacoders.com/798/798232.png);
+    background-size: cover;
+}
+.theme-dark .footer-3mqk7D {
+    background-color: transparent;
+}
+.colorStandard-2KCXvj {
+    color: black;
+    text-shadow: 
+     2px 0 0 rgb(255, 255, 255),
+     -2px 0 0 rgb(255, 255, 255), 
+     0 2px 0 rgb(255, 255, 255),
+     0 -2px 0 rgb(255, 255, 255),
+     1px 1px rgb(255, 255, 255),
+     -1px -1px 0 rgb(255, 255, 255),
+     1px -1px 0 rgb(255, 255, 255),
+     -1px 1px 0 rgb(255, 255, 255);
+}
+.title-eS5yk3 {
+    color: black;
+}
+.customStatusText-39gdCI {
+    color: black;
+    text-shadow: 
+    2px 0 0 rgb(255, 255, 255),
+    -2px 0 0 rgb(255, 255, 255), 
+    0 2px 0 rgb(255, 255, 255),
+    0 -2px 0 rgb(255, 255, 255),
+    1px 1px rgb(255, 255, 255),
+    -1px -1px 0 rgb(255, 255, 255),
+    1px -1px 0 rgb(255, 255, 255),
+    -1px 1px 0 rgb(255, 255, 255);
+}
+.embedFull-2tM8-- {
+    background-color: transparent;
+}
+.headerPlaying-j0WQBV,
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: transparent;
+}
+.userPopout-3XzG_A {
+    background-image: url(https://images5.alphacoders.com/690/690622.jpg);
+    background-size: cover;
+    background-position: -250px;
+}
