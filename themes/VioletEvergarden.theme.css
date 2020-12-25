@@ -223,7 +223,24 @@ background-color: rgba(0, 0, 0, 0.223);
     background-color: #36393f9e;
 }
 .markup-2BOw-j a {
-    color: rgb(252, 0, 0) var(--text-link);
+    color: #03b9ff;
+}
+.messagesPopoutWrap-1MQ1bW {
+    background-image: url(https://images3.alphacoders.com/898/898331.png);
+    background-size: cover;
+    background-position: -284px;
+}
+.header-yku{
+    background-color: transparent;
+}
+.messageGroupWrapper-o-Zw7G {
+    background-color: transparent;
+    background-color: red;
+}
+
+
+element.style {
+    background-image: url(https://images8.alphacoders.com/910/910057.png);
 }
 .name-uJV0GL {
     color: white;
@@ -323,4 +340,10 @@ background-color: rgba(0, 0, 0, 0.223);
 }
 .jumpToPresentBar-G1R9s6{
     background-color: rgba(29, 205, 228, 0.466);
+}
+.theme-dark {
+    --background-accent: #0000004d;    
+    --scrollbar-auto-track: #2e333800;    
+    --scrollbar-auto-thumb: #0066ff;    
+    --interactive-muted: #000000;
 }
