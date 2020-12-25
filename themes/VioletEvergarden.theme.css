@@ -71,6 +71,7 @@
 .container-enaOkj {
     background-image: url(https://images7.alphacoders.com/898/898340.png);
     background-size: cover;
+    background-position: -300px;
 }
 /**/
 
@@ -157,6 +158,7 @@
 }
 .attachment-33OFj0 {
     background-color: rgba(0, 0, 0, 0.423);
+    border-color: red;
 }
 .button-1YfofB.buttonColor-7qQbGO,
 .button-1YfofB,
@@ -169,7 +171,10 @@
     background-color: transparent;
 }
 .actionButton-uPB8Fs {
-background-color: rgba(0, 0, 0, 0.123);
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.highlight-Lf97TE {
+background-color: rgba(0, 0, 0, 0.223);
 }
 .wrapper-2aW0bm {
     background-color: rgba(0, 0, 0, 0.123);
@@ -235,4 +240,87 @@ background-color: rgba(0, 0, 0, 0.123);
 .theme-dark .invite-18yqGF {
     background-color: slategray;
     background: #2e3035;
+}
+.container-cMG81i {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    background-color: transparent;
+}
+.item-26Dhrx {
+    background-color: transparent;
+}
+.item-26Dhrx[aria-checked=true] {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.accountList-33MS45{
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.connection-1fbD7X {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.connectionHeader-2MDqhu {
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+    background-color: transparent;
+    border-color: transparent;
+}
+.theme-dark .feature-2w65J5 {
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.banner-WELp4M {
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.featureStickers-Pc_FBx .stickerImageSection-7EUs8E {
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+    background-color: rgba(0, 0, 0, 0.223);
+}
+.item-26Dhrx[aria-checked=true] {
+    background-color: rgba(0, 0, 0, 0.223);
+}
+.theme-dark .card-FDVird:before {
+    background-color: rgba(0, 0, 0, 0.123);
+    border-color: red;
+}
+.icon-22AiRD {
+    color:cyan;
+}
+.channelHeader-3Gd2xq {
+    background-color: rgba(0, 0, 0, 0.223);
+}
+.messages-3G3erD{
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.item-2hkk8m {
+    background: linear-gradient(65deg, rgba(204, 255, 0, 0.185) 10%, rgba(0, 255, 8, 0.178) 89%)
+}
+.theme-dark .selected-1Tbx07 {
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.theme-dark .autocomplete-1vrmpx {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.contentWrapper-SvZHNd {
+
+}
+.inspector-S2gM3e {
+    background-color: transparent;
+}
+.wrapper-1-Fsb8 {
+    background-color: transparent;
+}
+.wrapper-2Gsate {
+    background-color: transparent;
+}
+.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.jumpToPresentBar-G1R9s6{
+    background-color: rgba(29, 205, 228, 0.466);
 }
