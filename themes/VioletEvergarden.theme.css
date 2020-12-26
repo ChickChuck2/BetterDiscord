@@ -15,6 +15,12 @@
     background-image: url(https://images6.alphacoders.com/898/898336.png);
     background-size: cover;
 }
+.theme-dark .uploadModal-2ifh8j {
+    background-image: url(https://i0.wp.com/www.pontojao.com.br/wp-content/uploads/2018/03/violet-capa.png?fit=500%2C500);
+}
+.theme-dark .footer-3mqk7D {
+    background-color: transparent;
+}
 .contentRegion-3nDuYy {
     background-color: transparent;
 }
@@ -181,6 +187,9 @@ background-color: rgba(0, 0, 0, 0.223);
 }
 #bd-pub-button {
     background-color: rgba(0, 20, 20, 0.123);
+}
+.topSectionSpotify-1lI0-P {
+    background-color: transparent;
 }
 .emptyCard-1RJw8n,
 .wrapper-3D2qGf,
