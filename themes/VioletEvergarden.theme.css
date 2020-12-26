@@ -236,7 +236,7 @@ background-color: rgba(0, 0, 0, 0.223);
     color: #03b9ff;
 }
 .messagesPopoutWrap-1MQ1bW {
-    background-image: url(https://images3.alphacoders.com/898/898331.png);
+    background-image: url(https://images7.alphacoders.com/898/898340.png);
     background-size: cover;
     background-position: -284px;
 }
@@ -245,7 +245,7 @@ background-color: rgba(0, 0, 0, 0.223);
 }
 .messageGroupWrapper-o-Zw7G {
     background-color: transparent;
-    background-color: red;
+    border: 1px solid red;
 }
 
 
@@ -356,4 +356,7 @@ element.style {
     --interactive-muted: #000000;
     --text-link: #00b0f4;
     --text-muted: #0070ff;
+}
+.header-ykumBX {
+    background-color: transparent;
 }
