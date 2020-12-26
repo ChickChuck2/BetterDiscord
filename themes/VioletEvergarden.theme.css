@@ -323,9 +323,6 @@ element.style {
 .theme-dark .autocomplete-1vrmpx {
     background-color: rgba(0, 0, 0, 0.423);
 }
-.contentWrapper-SvZHNd {
-
-}
 .inspector-S2gM3e {
     background-color: transparent;
 }
@@ -342,8 +339,11 @@ element.style {
     background-color: rgba(29, 205, 228, 0.466);
 }
 .theme-dark {
+    --header-primary: #82b7ff;
     --background-accent: #0000004d;    
     --scrollbar-auto-track: #2e333800;    
     --scrollbar-auto-thumb: #0066ff;    
     --interactive-muted: #000000;
+    --text-link: #00b0f4;
+    --text-muted: #0070ff;
 }
