@@ -360,3 +360,19 @@ element.style {
 .header-ykumBX {
     background-color: transparent;
 }
+.themedPopout-1TrfdI {
+    background-image: url(https://images8.alphacoders.com/911/911039.png);
+    background-size: cover;
+    background-position: -244px;
+}
+.searchResultsWrap-3-pOjs{
+    background-color: transparent;
+}
+.searchResultMessage-1fxgXh.hit-1fVM9e {
+    background-color: transparent;
+    border: 1px solid red;
+    box-shadow: 0 0 10px 6px #2f313600;
+}
+.searchResult-9tQ1uo:before{
+    position: unset;
+}
