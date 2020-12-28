@@ -352,6 +352,8 @@ element.style {
     background-color: rgba(29, 205, 228, 0.466);
 }
 .theme-dark {
+    --background-primary: #0055ff00;
+    --background-secondary: #00000091;
     --header-primary: #82b7ff;
     --background-accent: #0000004d;    
     --scrollbar-auto-track: #2e333800;    
@@ -359,6 +361,9 @@ element.style {
     --interactive-muted: #000000;
     --text-link: #00b0f4;
     --text-muted: #0070ff;
+    --background-tertiary: #00000000;
+    --scrollbar-thin-thumb: #00daff45;
+    --elevation-low: 0 1px 0 rgba(0, 0, 255, 0),0 1.5px 0 rgba(0, 0, 0, 0.32),0 2px 0 rgba(0, 0, 255, 0);
 }
 .header-ykumBX {
     background-color: transparent;
