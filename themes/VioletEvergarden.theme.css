@@ -398,3 +398,22 @@ element.style {
 .emojiSection-3Fb9ix {
     background-color: rgba(0, 0, 0, 0.523);
 }
+.subtext-24R4-w {
+    color: #00ff95de;
+    text-shadow:
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0),
+    0 2px 0 rgb(0, 0, 0),
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0),
+    -1px -1px 0 rgb(0, 0, 0),
+    1px -1px 0 rgb(0, 0, 0),
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+    background-color: rgba(0, 0, 0, 0.65);
+}
+.lookInverted-2D7oAl.colorGreen-29iAKY {
+    color: #43b581;
+    background-color: #00000094;
+}
