@@ -180,6 +180,9 @@
 .actionButton-uPB8Fs {
     background-color: rgba(0, 0, 0, 0.123);
 }
+.actionButton-uPB8Fs.highlight-Lf97TE {
+    background-color: rgba(0, 0, 0, 0.223);
+}
 .highlight-Lf97TE {
 background-color: rgba(0, 0, 0, 0.223);
 }
@@ -375,4 +378,15 @@ element.style {
 }
 .searchResult-9tQ1uo:before{
     position: unset;
+}
+.searchResult-9tQ1uo.expanded-w_LCGl {
+    background-color: rgba(0, 0, 0, 0.223);
+    border: rgba(0, 0, 0, 0.423);
+}
+.expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e {
+    background-color: rgba(0, 0, 0, 0.223);
+    border: rgba(0, 0, 0, 0.223);
+}
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
+    background-color: rgba(0, 0, 0, 0.423);
 }
