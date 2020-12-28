@@ -427,3 +427,25 @@ element.style {
 .colorable-1bkp8v.primaryDark-3mSFDl {
     background: #00000059;
 }
+.noiseCancellationPopout-iRK2A0 {
+    background: linear-gradient(45deg, #2d5f71a1 43%, #4feca0a6);
+}
+.description-3_Ncsb, .labelDescriptor-1PqHgD {
+    color: #00ff95de;
+    text-shadow:
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0),
+    0 2px 0 rgb(0, 0, 0),
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0),
+    -1px -1px 0 rgb(0, 0, 0),
+    1px -1px 0 rgb(0, 0, 0),
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.header-2Zv56X {
+    color: red;
+}
+.description-22pzKs {
+    color: #00ff95de;
+    text-shadow: 2px 0 0 rgb(0, 0, 0), -2px 0 0 rgb(0, 0, 0), 0 2px 0 rgb(0, 0, 0), 0 -2px 0 rgb(0, 0, 0), 1px 1px rgb(0, 0, 0), -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0);
+}
