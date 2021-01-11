@@ -476,6 +476,6 @@ element.style {
     83.33334% {color:  #2E2B5F;}
     100% {color: #8B00FF;}
 }
-.span {
-    animation: RGB 5s infinite alternate;
+span{ 
+animation: RGB 5s infinite alternate;
 }
