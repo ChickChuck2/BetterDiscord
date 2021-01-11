@@ -464,3 +464,15 @@ element.style {
 .container-3ayLPN {
     background: rgba(0, 0, 0, 0.32) !important;
 }
+.username-1A8OIy {
+    animation: RGB 5s infinite alternate;
+}
+@keyframes RGB {
+    0% {color: #FF0000;}
+    16.66667% {color:#FF7F00;}
+    33.33334% {color:#FF7F00;}
+    50% {color: #00FF00;}
+    66.66667% {color: #0000FF;}
+    83.33334% {color:  #2E2B5F;}
+    100% {color: #8B00FF;}
+}
