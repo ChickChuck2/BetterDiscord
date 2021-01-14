@@ -328,7 +328,7 @@ element.style {
     background-color: rgba(0, 0, 0, 0.423);
 }
 .item-2hkk8m {
-    background: linear-gradient(65deg, rgba(204, 255, 0, 0.185) 10%, rgba(0, 255, 8, 0.178) 89%)
+    background: linear-gradient(65deg, rgba(204, 255, 0, 0.185) 10%, rgba(0, 255, 8, 0.178) 89%);
 }
 .theme-dark .selected-1Tbx07 {
     background-color: rgba(0, 0, 0, 0.123);
@@ -464,9 +464,6 @@ element.style {
 .container-3ayLPN {
     background: rgba(0, 0, 0, 0.32) !important;
 }
-.username-1A8OIy {
-    animation: RGB 5s infinite alternate;
-}
 @keyframes RGB {
     0% {color: #FF0000;}
     16.66667% {color:#FF7F00;}
@@ -488,4 +485,7 @@ element.style {
 .option-3KoAJB.focused-1T6PE5, .option-3KoAJB:focus, .option-3KoAJB:hover {
     background-color: rgba(0, 0, 0, 0.32);
     color: #0080ff;
+}
+.popout-VcNcHB {
+    border: 1px solid #00ecff;
 }
