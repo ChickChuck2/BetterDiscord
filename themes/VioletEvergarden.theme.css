@@ -482,3 +482,10 @@ element.style {
 .title-eS5yk3 {
 	animation: RGB 5s infinite alternate;
 }
+.theme-dark .modal-yWgWj- {
+    background-color: rgba(0, 0, 0, 0.32);
+}
+.option-3KoAJB.focused-1T6PE5, .option-3KoAJB:focus, .option-3KoAJB:hover {
+    background-color: rgba(0, 0, 0, 0.32);
+    color: #0080ff;
+}
