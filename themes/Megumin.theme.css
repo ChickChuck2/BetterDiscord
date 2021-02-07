@@ -135,16 +135,7 @@
     background-color: transparent;
 }
 .colorStandard-2KCXvj {
-    color: black;
-    text-shadow: 
-     2px 0 0 rgb(255, 255, 255),
-     -2px 0 0 rgb(255, 255, 255), 
-     0 2px 0 rgb(255, 255, 255),
-     0 -2px 0 rgb(255, 255, 255),
-     1px 1px rgb(255, 255, 255),
-     -1px -1px 0 rgb(255, 255, 255),
-     1px -1px 0 rgb(255, 255, 255),
-     -1px 1px 0 rgb(255, 255, 255);
+    color: white;
 }
 .title-eS5yk3 {
     color: black;
@@ -185,4 +176,32 @@
 }
 .theme-dark .headerNormal-T_seeN {
     background-color: transparent;
+}
+.item-26Dhrx {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.item-26Dhrx[aria-checked=true] {
+    background-color: rgba(80, 53, 53, 0.423);
+}
+.anchor-3Z-8Bb {
+    color: red;
+}
+.accountList-33MS45 {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.connectionHeader-2MDqhu {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.connection-1fbD7X {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.theme-dark .feature-2w65J5 {
+    background-color: rgba(0, 0, 0, 0.423);
+}
+.menu-3sdvDG {
+    background: rgba(0, 0, 0, 0.423);
+}
+.lookInverted-2D7oAl.colorBrand-3pXr91 {
+    background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
+    color: #000000;
 }
