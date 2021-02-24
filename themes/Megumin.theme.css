@@ -205,3 +205,55 @@
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
     color: #000000;
 }
+.bd-search-wrapper {
+    background-color: #00000078;
+}
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+    background-color: #00000080;
+}
+.cardWrapper-2Min21 {
+    background-color: rgba(0, 0, 0, 0.493);
+}
+.theme-dark .gemIndicatorContainer-2jdECl {
+    background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
+}
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+    color: #fff;
+    background-color: #00000085;
+    border-color: #ff00008a;
+}
+.preview-2nSL_2{
+    background-color: rgba(0, 0, 0, 0.493);
+}
+.theme-dark {
+    --scrollbar-thin-thumb: #ff000069;
+    --scrollbar-thin-track: #a7212100;
+    --scrollbar-auto-thumb: #a22b2b;
+    --scrollbar-auto-track: #0000004f;
+}
+.wrapper-2aW0bm {
+    background-color: #00000099;
+}
+.contentWrapper-SvZHNd {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.inspector-S2gM3e {
+    background-color: #0000007a;
+}
+.wrapper-1-Fsb8 {
+    background-color: #4600008c;
+}
+.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp, .button-1YfofB .buttonColor-7qQbGO.buttonActive-3FrkXp {
+    background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
+    color: #fff;
+}
+.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+    background: linear-gradient(65deg, rgb(64, 64, 64) 42%, rgb(33, 33, 33) 89%);
+}
+.jumpToPresentBar-G1R9s6 {
+    background-color: #00000078;
+}
+.button-1YfofB.buttonColor-7qQbGO, .button-1YfofB .buttonColor-7qQbGO {
+    background-color: #0000007a;
+    color: var(--interactive-active);
+}
