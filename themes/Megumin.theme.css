@@ -263,12 +263,6 @@
 .wrapper-3NnKdC {
     background-color: transparent;
 }
-.modeConnected-3IsKId .name-23GUGE, .modeConnected-3IsKId:hover .name-23GUGE, .modeSelected-346R90 .name-23GUGE, .modeSelected-346R90:hover .name-23GUGE, .modeUnread-1qO3K1 .name-23GUGE, .modeUnread-1qO3K1:hover .name-23GUGE, .notInteractive-1X92pj.modeConnected-3IsKId .name-23GUGE, .notInteractive-1X92pj.modeSelected-346R90 .name-23GUGE {
-    color: #fdfdfd;
-    background: -webkit-linear-gradient(65deg, rgb(192, 28, 28) 42%, rgb(255, 212, 1) 89%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 .reaction-1hd86g {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.25) 42%, rgba(255, 212, 1, 0.25) 89%)
 }
@@ -286,4 +280,24 @@
 }
 .profileBanner-33-uE1{
     background-color: transparent !important;
+}
+.header-ykumBX {
+    background-color: transparent;
+}
+.messageGroupWrapper-o-Zw7G {
+    background-color: transparent;
+}
+.messagesPopoutWrap-1MQ1bWp {
+    background-image: url("https://images6.alphacoders.com/806/806274.png");
+    background-size: cover;
+}
+.container-enaOkj {
+    background-image: url("https://images4.alphacoders.com/787/787087.png");
+    background-size: cover;
+}
+.channelHeader-3Gd2xq {
+    background-color: rgba(0, 0, 0, 0.493);
+}
+.messages-3G3erD {
+    background-color: transparent;
 }
