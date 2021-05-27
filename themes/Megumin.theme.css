@@ -162,7 +162,7 @@
 .userPopout-3XzG_A {
     background-image: url(https://images5.alphacoders.com/690/690622.jpg);
     background-size: cover;
-    background-position: -250px;
+    background-position: -194px;
 }
 .bd-addon-list .bd-addon-card,
 .bd-addon-list .bd-addon-header {
@@ -256,4 +256,34 @@
 .button-1YfofB.buttonColor-7qQbGO, .button-1YfofB .buttonColor-7qQbGO {
     background-color: #0000007a;
     color: var(--interactive-active);
+}
+.scroller-1Bvpku {
+    background-color: transparent;
+}
+.wrapper-3NnKdC {
+    background-color: transparent;
+}
+.modeConnected-3IsKId .name-23GUGE, .modeConnected-3IsKId:hover .name-23GUGE, .modeSelected-346R90 .name-23GUGE, .modeSelected-346R90:hover .name-23GUGE, .modeUnread-1qO3K1 .name-23GUGE, .modeUnread-1qO3K1:hover .name-23GUGE, .notInteractive-1X92pj.modeConnected-3IsKId .name-23GUGE, .notInteractive-1X92pj.modeSelected-346R90 .name-23GUGE {
+    color: #fdfdfd;
+    background: -webkit-linear-gradient(65deg, rgb(192, 28, 28) 42%, rgb(255, 212, 1) 89%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.reaction-1hd86g {
+    background: linear-gradient(65deg, rgba(192, 28, 28, 0.25) 42%, rgba(255, 212, 1, 0.25) 89%)
+}
+.headerTop-2y3V6H {
+    background-color: transparent;
+}
+.headerNormal-1l1Znk {
+    background-color: transparent;
+}
+.textarea-2r0oV8:focus {
+    background-color: rgba(0, 0, 0, 0.223);
+}
+.markup-2BOw-j code {
+    background-color: rgba(0, 0, 0, 0.493);
+}
+.profileBanner-33-uE1{
+    background-color: transparent !important;
 }
