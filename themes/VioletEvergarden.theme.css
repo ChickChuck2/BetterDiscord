@@ -533,3 +533,17 @@ element.style {
 .profileBanner-33-uE1{
     background-color: transparent !important;
 }
+
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    background-color: rgba(0, 0, 0, 0.65);
+    border-radius: 20px;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
+    background-color: rgba(0, 0, 0, 0.223);
+}
+
+.lookFilled-1Gx00P.colorRed-1TFJan {
+    background-color: rgba(255, 0, 0, 0.295);
+    border-radius: 20px;
+}
