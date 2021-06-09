@@ -65,8 +65,17 @@
 }
 .themed-OHr7kt.item-PXvHYJ,
 .root-SR8cQa .topSectionNormal-2-vo2m .date-YN6TCS {
-    color: green;
+    color: white;
     font-variant: normal;
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
 }
 /**/
 
