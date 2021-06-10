@@ -12,7 +12,7 @@
 /*Configs Background*/
 .standardSidebarView-3F1I7i {
     background-color: transparent;
-    background-image: url(https://images.alphacoders.com/901/901101.png);
+    background-image: url(https://images6.alphacoders.com/898/898336.png);
     background-size: cover;
 }
 .theme-dark .uploadModal-2ifh8j {
@@ -370,7 +370,6 @@ element.style {
     --interactive-muted: #000000;
     --text-link: #00b0f4;
     --text-muted: #0070ff;
-    --background-tertiary: #00000000;
     --scrollbar-thin-thumb: #00daff45;
     --elevation-low: 0 1px 0 rgba(0, 0, 255, 0),0 1.5px 0 rgba(0, 0, 0, 0.32),0 2px 0 rgba(0, 0, 255, 0);
 }
@@ -536,9 +535,6 @@ element.style {
 .input-2_SIlA {
     background-color: #0000005c;
 }
-.profileBanner-33-uE1{
-    background-color: transparent !important;
-}
 
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
     background-color: rgba(0, 0, 0, 0.65);
@@ -592,5 +588,32 @@ element.style {
     background-color: transparent;
 }
 .body-r6_QPy, .topSection-y3p-_D {
+    background-color: transparent;
+}
+.wrapper-3NnKdC {
+    background-color: transparent;
+}
+.profileBanner-33-uE1{
+    background-color: transparent !important;
+}
+.popoutBanner-19WKGg {
+    background-color: transparent !important;
+}
+.side-8zPYf6 .header-2RyJ0Y {
+    text-shadow:
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.textarea-2r0oV8:focus {
+    background-color: rgba(0, 0, 0, 0.523);
+}
+.avatar-AvHqJA {
+    border: transparent;
     background-color: transparent;
 }
