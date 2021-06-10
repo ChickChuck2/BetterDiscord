@@ -567,6 +567,7 @@ element.style {
     background-color: transparent;
 }
 .bd-setting-note {
+    color: white;
     text-shadow: 
     2px 0 0 rgb(0, 0, 0),
     -2px 0 0 rgb(0, 0, 0),
@@ -574,6 +575,17 @@ element.style {
     0 -2px 0 rgb(0, 0, 0),
     1px 1px rgb(0, 0, 0),
     -1px -1px 0 rgb(0, 0, 0),
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.bd-setting-header label {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
     1px -1px 0 rgb(0, 0, 0), 
     -1px 1px 0 rgb(0, 0, 0);
 }
