@@ -1,0 +1,457 @@
+/**
+* @name Re:zero Emilia
+* @author ChickChuck2
+* @version ersion auto updates
+* @description A simple re:zero Emilia theme
+* @source https://github.com/ChickChuck2/BetterDiscord
+* @authorId 462768330005282816
+*/
+
+
+/*Menu Background*/
+.platform-win .bg-h5JY_x {
+    background-image: url("https://images.alphacoders.com/743/thumb-1920-743968.png");
+    background-size: cover;
+}
+
+.bg-h5JY_x {
+    background-color: transparent;
+}
+.wrapper-3NnKdC {
+    background-color: transparent;
+}
+.scroller-1Bvpku {
+    background-color: transparent;
+}
+.sidebar-2K8pFh {
+    background-color: transparent;
+}
+.scroller-1JbKMe {
+    background-color: transparent;
+}
+.privateChannels-1nO12o {
+    background-color: transparent;
+}
+.panels-j1Uci_ {
+    background-color: rgba(0, 0, 0, 0.500);
+}
+.chat-3bRxxu, .threadSidebar-1o3BTy{
+    background-color: transparent;
+}
+.container-1r6BKw.themed-ANHk51 {
+    background-color: transparent;
+}
+.children-19S4PO:after {
+    position: unset;
+}
+
+.channelTextArea-rNsIhG {
+    background: linear-gradient(64deg,rgba(255, 0, 242, 0.24),rgba(255, 255, 255, 0.582));
+}
+.scrollableContainer-2NUZem {
+    background-color: transparent;
+}
+.icon-3D60ES {
+    color: black;
+}
+.fontSize16Padding-3Wk7zP {
+    color: white;
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.span {
+    color: royalblue;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background-color: rgba(0, 0, 0, 0.100);
+}
+.cozy-3raOZG .messageContent-2qWWxC {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.name-uJV0GL {
+    color: white;
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.headerText-2F0828 {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx,.akaBadge-1M-1Gw, .nicknames-1XK4Zt {
+    color: white;
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9,
+.childWrapper-anI2G9 {
+    background: linear-gradient(64deg,rgba(255, 0, 242, 0.38),rgba(255, 255, 255, 0));
+}
+.searchBar-3dMhjb {
+    background-color: rgba(0, 0, 0, 0.100);
+}
+.circleIconButton-1QV--U {
+    background: linear-gradient(64deg,rgba(99, 0, 77, 0.38),rgba(255, 255, 255, 0));
+}
+.wrapper-2aW0bm {
+    background-color: rgba(0, 0, 0, 0.500);
+}
+.menu-3sdvDG {
+    background-color: rgba(0, 0, 0, 0.500);
+}
+
+/*Lista de amigos*/
+.theme-dark .container-1D34oG,.container-lRFx4q,.nowPlayingColumn-2sl4cE {
+    background-color: transparent;
+}
+.emptyCard-1RJw8n {
+    background-color: rgba(0, 0, 0, 0.300);
+    color: white;
+}
+
+.contentWrapper-SvZHNd {
+    background-color: rgba(0, 0, 0, 0.500);
+}
+.container-2XeR5Z, .wrapper-2Gsate, .wrapper-1-Fsb8, .inspector-S2gM3e {
+    background-color: rgba(0, 0, 0, 0.100);
+}
+.navButtonActive-1MkytQ, .categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {
+    background: linear-gradient(64deg,rgba(224, 0, 176, 0.38),rgba(255, 255, 255, 0.575));
+}
+.icon-22AiRD {
+    color: rgb(0, 255, 0);
+}
+.themed-OHr7kt.item-PXvHYJ {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+#bd-pub-button, .brand-1Zl8en.item-PXvHYJ {
+    background-color: rgba(0, 0, 0, 0.100);
+    color: white;
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.container-cMG81i {
+    background-color: rgba(0, 0, 0, 0.100);
+}
+.headerCell-T6Fo3K,.title-30qZAO {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.activity-525YDR {
+    color: rgb(255, 0, 200);
+
+}
+.userPopout-xaxa6l {
+    background-image: url("https://images6.alphacoders.com/728/thumb-1920-728203.jpg");
+    background-size: cover;
+    background-position: -330px;
+}
+.bodyInnerWrapper-26fQXj,.footer-3UKYOU {
+    background-color: transparent;
+}
+.input-2_SIlA {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.textarea-2r0oV8:focus {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.popoutBanner-19WKGg {
+    background-color: transparent !important;
+}
+
+.avatar-37jOim {
+    border: 6px solid transparent;
+    background-color: transparent;
+}
+
+.wrapper-3D2qGf {
+    background-color: rgba(0, 0, 0, 0.100);
+}
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.textContent-3N7xXx {
+    color: white;
+}
+.text-3MU_QQ {
+    color: purple;
+}
+.username-31C1TQ {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.actionButton-uPB8Fs {
+    background-color: rgba(0, 0, 0, 0.300);
+    color: white;
+}
+.actionButton-uPB8Fs.highlight-Lf97TE {
+    background-color: rgba(0, 0, 0, 0.500);
+    color: white;
+}
+
+.root-3QyAh1 {
+    background-image: url("https://images3.alphacoders.com/772/thumb-1920-772996.jpg");
+    background-position: -200px;
+    background-size: cover;
+}
+.body-r6_QPy, .topSection-y3p-_D {
+    background-color: transparent;
+}
+.root-3QyAh1 .date-YN6TCS, .customStatusText-2opeSw,.base-1x0h_U,.userBio-3tlrzS,
+.textarea-2r0oV8,.nameTag-ECvD8P .botTag-U0I7-9, .nameTag-ECvD8P .discriminator-1swucG,
+ .nameTag-ECvD8P .username-FvTBog,.textRow-19NEd_,.username-2b1r56,.listDiscriminator-2AP_Kz,.colorStandard-2KCXvj,
+ .typing-2GQL18 > .text-1y-e8-, .typing-2GQL18 > .text-1y-e8- > strong {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.connectedAccount-2Jb-Z0 {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.profileBanner-33-uE1 {
+    background-color: transparent !important;
+}
+.content-1o0f9g {
+    background-color: rgba(0, 0, 0, 0.300);
+    color: white;
+}
+
+/*Configs*/
+.layer-3QrUeG {
+    background-color: transparent;
+}
+
+.sidebarRegionScroller-3MXcoP,.contentRegionScroller-26nc1e,.contentRegion-3nDuYy {
+    background-color: transparent;
+}
+.standardSidebarView-3F1I7i {
+    background-color: transparent;
+}
+.accountProfileCard-1XCH88 {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.background-1QDuV2,.fieldList-21DyL8 {
+    background-color: rgba(0, 0, 0, 0.100);
+}
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
+    background-color: rgba(255, 0, 255, 0.445);
+}
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+    background-color: rgba(255, 0, 255, 0.74);
+}
+.body-1ld4H7 {
+    background-color: transparent;
+}
+.ShowSessions-list-item,.section-2gLsgF {
+    background: rgba(0, 0, 0, 0.500) !important;
+}
+.profileBannerPreview-3_l0Wd {
+    background-image: url("https://images6.alphacoders.com/728/thumb-1920-728203.jpg");
+    background-size: cover;
+    background-position: -250px;
+}
+.item-26Dhrx {
+    background-color: rgba(0, 0, 0, 0.500);
+}
+.item-26Dhrx[aria-checked=true] {
+    background-color: rgba(0, 0, 0, 0.700);
+}
+.item-26Dhrx:hover:not([aria-checked=true]) {
+    background-color: rgba(0, 0, 0, 0.600);
+}
+
+.small-3iVZYw,.footer-2gL1pp {
+    background-color: rgba(0, 0, 0, 0.500) !important;
+}
+.accountList-33MS45,.connectionHeader-2MDqhu,
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs,
+.connectionHeader-2MDqhu,.connection-1fbD7X,
+
+.noItemsCard-153Tex,.noItemsCard-3TSAgO,
+
+.feature-2w65J5,
+
+.codeRedemptionRedirect-1wVR4b{
+    background-color: rgba(0, 0, 0, 0.300) !important;
+}
+
+.features-3EmM1p {
+    background-color: rgba(0, 0, 0, 0.300);
+    border-radius: 10px;
+}
+.cardWrapper-2Min21 {
+    background-color: rgba(0, 0, 0, 0.500);
+}
+
+/*servidores*/
+.sidebar-2K8pFh,.container-3w7J-x,
+.members-1998pB, .members-1998pB>div {
+    background-color: transparent;
+}
+.channelName-2YrOjO, .subtitle-3V1p2E {
+    color: white;
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.embedFull-2tM8-- {
+    background-color: rgba(0, 0, 0, 0.500);
+}
+
+.searchResultsWrap-3-pOjs,.searchHeader-2XoQg7,
+.channelName-1JRO3C,.searchResult-9tQ1uo {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+
+.listName-U3shDM,.name-1jkAdW {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.modeMuted-onO3r- .icon-1DeIlz, .modeMuted-onO3r- .name-23GUGE {
+    color: purple !important;
+}
+.item-2hkk8m,.unread-2lAfLh{
+    background: linear-gradient(rgb(39, 3, 39),purple);
+}
+.wrapperAudio-1jDe0Q {
+    background-color: rgba(0, 0, 0, 0.500) !important;
+}
+.audioMetadata-3zOuGv .metadataSize-2UOOLK {
+    color:  white;
+}
+
+.theme-dark {
+    --scrollbar-auto-thumb: purple;
+    --scrollbar-thin-thumb: purple;
+    --scrollbar-auto-track: transparent;
+}
+.bd-addon-list .bd-addon-card,.bd-addon-list .bd-addon-header,
+.bd-search-wrapper {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.bd-search {
+    color: white !important;
+}
+
+/*mandar arquivo*/
+.uploadModal-2ifh8j {
+    background-image: url("https://images7.alphacoders.com/695/thumb-1920-695212.png") !important;
+    background-size: cover;
+}
+.uploadModal-2ifh8j .footer-3mqk7D {
+    background-color: transparent;
+}
+.uploadCounter-iEGQQk {
+    color: white;
+}
+
+.container-enaOkj {
+    background-image: url("https://images8.alphacoders.com/727/thumb-1920-727079.png");
+    background-size: cover;
+    background-position: -100px;
+}
+.header-ykumBX {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.messagesPopoutWrap-1MQ1bW {
+    background-image: url("https://images8.alphacoders.com/727/thumb-1920-727079.png");
+    background-size: cover;
+    background-position: -300px;
+}
+.channelHeader-3Gd2xq,
+.messageContainer-gbhlwo {
+    background-color: rgba(0, 0, 0, 0.100);
+}
+.markup-2BOw-j code {
+    background-color: rgba(0, 0, 0, 0.300);
+}
+.feature-BGH8y4 {
+    background-color: rgba(0, 0, 0, 0.300);
+    border-radius: 10px;
+}
+.container-2wlB3z {
+    background-color: rgba(0, 0, 0, 0.600);
+}
