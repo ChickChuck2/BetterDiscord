@@ -1,69 +1,61 @@
-/**
- * @name Konosuba -Megumin
- * @author ChickChuck2
- * @authorId 462768330005282816
- * @version ersion auto update
- * @description A biuriful theme of megumin of konosuba
-*/
-
-.app-2rEoOp {
+.app-2CXKsg {
     background: url(https://github.com/ChickChuck2/BetterDiscord/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true);
     background-size: cover;
 }
-.chat-3bRxxu, .threadSidebar-1o3BTy {
+.chat-2ZfjoI, .threadSidebar-1o3BTy {
     background-color: transparent;
 }
-.bg-h5JY_x {
+.bg-1QIAus {
     background-color: transparent;
 }
-.sidebar-2K8pFh {
+.sidebar-1tnWFu {
     background-color: transparent;
 }
-.container-3w7J-x {
+.container-1NXEtd {
     background-color: transparent;
 }
-.members-1998pB, .members-1998pB>div {
+.members-3WRCEx, .members-3WRCEx>div {
 
     background-color: transparent;
 }
-.container-1r6BKw.themed-ANHk51 {
+.container-ZMc96U.themed-Hp1KC_ {
     background-color: transparent;
 }
-.children-19S4PO:after {
+.children-3xh0VB:after {
     position: unset;
 }
 .scroller-2TZvBN,
 .wrapper-1Rf91z {
     background-color: transparent;
 }
-.scrollableContainer-2NUZem {
+.scrollableContainer-15eg7h {
     background-color: transparent;
 }
-.channelTextArea-rNsIhG {
+.channelTextArea-1FufC0 {
     background: linear-gradient(65deg, rgba(172, 28, 28, 0.185) 92%, rgba(255, 0, 0, 0.178) 89%);
 }
-.scroller-1JbKMe{
+.scroller-WSmht3{
     background-color: transparent;
 }
-.privateChannels-1nO12o {
+.privateChannels-oVe7HL {
     background-color: transparent;
 }
-.panels-j1Uci_ {
+.panels-3wFtMD {
     background-color: transparent;
 }
-.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
     background-color: rgba(1, 1, 1, 0.277);
 }
-.searchBar-3dMhjb {
+.searchBar-zdmu7v {
     background-color: rgba(1, 1, 1, 0.277);
 }
 #bd-pub-button {
     background-color: rgba(1, 1, 1, 0.277);
 }
-.theme-dark .form-2fGMdU:before {
+.theme-dark .form-3gdLxP:before {
     position: unset;
 }
-.root-1gCeng {
+.root-g14mjS {
     background-image: url(https://images5.alphacoders.com/782/782913.png);
     background-size: cover;
     background-position: -140px;
@@ -74,70 +66,70 @@
 .body-3ND3kc {
     background-color: transparent;
 }
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
     background-color: transparent;
 }
-.layer-3QrUeG {
+.layer-86YKbF {
     background-color: transparent;
 }
-.standardSidebarView-3F1I7i {
+.standardSidebarView-E9Pc3j {
     background-image: url(https://images5.alphacoders.com/782/782977.png);
     background-size:cover;
 }
-.sidebarRegionScroller-3MXcoP {
+.sidebarRegionScroller-FXiQOh {
     background-color: transparent;
 }
-.contentRegion-3nDuYy {
+.contentRegion-3HkfJJ {
     background-color: transparent;
 }
-.contentRegionScroller-26nc1e {
+.contentRegionScroller-2_GT_N {
     background-color: transparent;
 }
-.background-1QDuV2 {
+.background-3d_SjE {
     background-color: rgba(1, 1, 1, 0.277);
 }
-.fieldList-21DyL8 {
+.fieldList-in8WkP {
     background-color: rgba(1, 1, 1, 0.277);
 }
 .topSectionPlaying-1J5E4n {
     background-color: transparent;
 }
-.theme-dark .container-1D34oG {
+.theme-dark .container-2cd8Mz {
     background-color: transparent;
 }
-.emptyCard-1RJw8n,
-.wrapper-3D2qGf,
+.emptyCard-KDifrB,
+.wrapper-2RrXDg,
 .topSectionPlaying-1J5E4n{
     background-color: transparent;
 }
-.theme-dark .inset-3sAvek {
+.theme-dark .inset-SbsSFp {
     background-color: rgba(0, 0, 0, 0.423);
 }
 
-.nowPlayingColumn-2sl4cE,
+.nowPlayingColumn-1eCBCN,
 .headerSpotify-zpWxgT {
     background-color: transparent;
 }
-.childWrapper-anI2G9 {
+.childWrapper-1j_1ub {
     background-color: transparent;
 }
-.attachment-33OFj0 {
+.attachment-1PZZB2 {
     background-color: transparent;
     border-color: red;
     border-radius: 20px;
     border-bottom:double 8px red;
 }
-.theme-dark .uploadModal-2ifh8j {
+.theme-dark .uploadModal-2ie9O_ {
     background-image: url(https://images6.alphacoders.com/798/798232.png);
     background-size: cover;
 }
-.theme-dark .footer-3mqk7D {
+.theme-dark .footer-VCsJQY {
     background-color: transparent;
 }
-.colorStandard-2KCXvj {
+.colorStandard-21JIj7 {
     color: white;
 }
-.title-eS5yk3 {
+.title-3XlmeX {
     color: black;
 }
 .customStatusText-39gdCI {
@@ -152,14 +144,14 @@
     1px -1px 0 rgb(255, 255, 255),
     -1px 1px 0 rgb(255, 255, 255);
 }
-.embedFull-2tM8-- {
+.embedFull-1HGV2S {
     background-color: transparent;
 }
 .headerPlaying-j0WQBV,
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: transparent;
 }
-.full-motion .translate-2dAEQ6.didRender-33z1u8 {
+.full-motion .translate-PeW1wK.didRender-2SiRlm {
     background: none;
     background-image: url(https://images5.alphacoders.com/690/690622.jpg);
     background-size: cover;
@@ -178,28 +170,28 @@
 .theme-dark .headerNormal-T_seeN {
     background-color: transparent;
 }
-.item-26Dhrx {
+.item-2idW98 {
     background-color: rgba(0, 0, 0, 0.423);
 }
-.item-26Dhrx[aria-checked=true] {
+.item-2idW98[aria-checked=true] {
     background-color: rgba(80, 53, 53, 0.423);
 }
-.anchor-3Z-8Bb {
+.anchor-1MIwyf {
     color: red;
 }
-.accountList-33MS45 {
+.accountList-305sx3 {
     background-color: rgba(0, 0, 0, 0.423);
 }
-.connectionHeader-2MDqhu {
+.connectionHeader-2rV1ze {
     background-color: rgba(0, 0, 0, 0.423);
 }
-.connection-1fbD7X {
+.connection-107AGH {
     background-color: rgba(0, 0, 0, 0.423);
 }
-.theme-dark .feature-2w65J5 {
+.theme-dark .feature-2IUcBI {
     background-color: rgba(0, 0, 0, 0.423);
 }
-.menu-3sdvDG {
+.menu-1QACrS {
     background: rgba(0, 0, 0, 0.423);
 }
 .lookInverted-2D7oAl.colorBrand-3pXr91 {
@@ -209,21 +201,21 @@
 .bd-search-wrapper {
     background-color: #00000078;
 }
-.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+.accountBtn-1YkMgV .accountBtnInner-3XK70s {
     background-color: #00000080;
 }
-.cardWrapper-2Min21 {
+.cardWrapper-CyvwQv {
     background-color: rgba(0, 0, 0, 0.493);
 }
-.theme-dark .gemIndicatorContainer-2jdECl {
+.theme-dark .gemIndicatorContainer-PqApbX {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
 }
-.theme-dark .codeRedemptionRedirect-1wVR4b {
+.theme-dark .codeRedemptionRedirect-3SBiCp {
     color: #fff;
     background-color: #00000085;
     border-color: #ff00008a;
 }
-.preview-2nSL_2{
+.preview-rua1rr{
     background-color: rgba(0, 0, 0, 0.493);
 }
 .theme-dark {
@@ -232,39 +224,39 @@
     --scrollbar-auto-thumb: #a22b2b;
     --scrollbar-auto-track: #0000004f;
 }
-.wrapper-2aW0bm {
+.wrapper-2vIMkT {
     background-color: #00000099;
 }
-.contentWrapper-SvZHNd {
+.contentWrapper-3vHNP2 {
     background-color: rgba(0, 0, 0, 0.6);
 }
-.inspector-S2gM3e {
+.inspector-DFKXwB {
     background-color: #0000007a;
 }
-.wrapper-1-Fsb8 {
+.wrapper-1NNaWG {
     background-color: #4600008c;
 }
-.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp, .button-1YfofB .buttonColor-7qQbGO.buttonActive-3FrkXp {
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
     color: #fff;
 }
-.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+.theme-dark .spoilerText-27bIiA.hidden-3B-Rum {
     background: linear-gradient(65deg, rgb(64, 64, 64) 42%, rgb(33, 33, 33) 89%);
 }
-.jumpToPresentBar-G1R9s6 {
+.jumpToPresentBar-1cEnH0 {
     background-color: #00000078;
 }
-.button-1YfofB.buttonColor-7qQbGO, .button-1YfofB .buttonColor-7qQbGO {
+.button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
     background-color: #0000007a;
     color: var(--interactive-active);
 }
-.scroller-1Bvpku {
+.scroller-3X7KbA {
     background-color: transparent;
 }
-.wrapper-3NnKdC {
+.wrapper-1_HaEi {
     background-color: transparent;
 }
-.reaction-1hd86g {
+.reaction-2A2y9y {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.25) 42%, rgba(255, 212, 1, 0.25) 89%)
 }
 .headerTop-2y3V6H {
@@ -273,36 +265,36 @@
 .headerNormal-1l1Znk {
     background-color: transparent;
 }
-.textarea-2r0oV8:focus {
+.textarea-_59yqs:focus {
     background-color: rgba(0, 0, 0, 0.223);
 }
-.markup-2BOw-j code {
+.markup-eYLPri code {
     background-color: rgba(0, 0, 0, 0.493);
 }
-.profileBanner-33-uE1{
+.profileBanner-1owKI5{
     background-color: transparent !important;
 }
-.header-ykumBX {
+.header-1w9Q93 {
     background-color: transparent;
 }
-.messageGroupWrapper-o-Zw7G {
+.messageGroupWrapper-1jf_7C {
     background-color: transparent;
 }
-.messagesPopoutWrap-1MQ1bWp {
+.messagesPopoutWrap-3zryHWp {
     background-image: url("https://images6.alphacoders.com/806/806274.png");
     background-size: cover;
 }
-.container-enaOkj {
+.container-2ebMPP {
     background-image: url("https://images4.alphacoders.com/787/787087.png");
     background-size: cover;
 }
-.channelHeader-3Gd2xq {
+.channelHeader-DFRX8q {
     background-color: rgba(0, 0, 0, 0.493);
 }
-.messages-3G3erD {
+.messages-23can0 {
     background-color: transparent;
 }
-.markup-2BOw-j {
+.markup-eYLPri {
     color: #ffffff;
     text-shadow: 2px 0 0 rgb(0, 0, 0), -2px 0 0 rgb(0, 0, 0), 0 2px 0 rgb(0, 0, 0), 0 -2px 0 rgb(0, 0, 0), 1px 1px rgb(0, 0, 0), -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0);
 }
@@ -350,9 +342,9 @@
     1px -1px 0 rgb(0, 0, 0), 
     -1px 1px 0 rgb(0, 0, 0);
 }
-.container-lRFx4q {
+.container-1oAagU {
     background-color: transparent;
 }
-.container-2wlB3z {
+.container-2o3qEW {
     background-color: transparent;
 }
