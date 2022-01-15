@@ -15,12 +15,12 @@
     background-image: url(https://images6.alphacoders.com/898/898336.png);
     background-size: cover;
 }
-.theme-dark .uploadModal-2ie9O_ {
-    background-image: url(https://images3.alphacoders.com/898/898331.png);
+.uploadModal-2ie9O_ {
+    background-image: url(https://images3.alphacoders.com/898/898331.png) !important;
     background-size: cover;
 }
-.theme-dark .footer-VCsJQY {
-    background-color: transparent;
+.footer-VCsJQY {
+    background-color: transparent !important;
 }
 .contentRegion-3HkfJJ {
     background-color: transparent;
@@ -39,11 +39,11 @@
     background-size:cover;
     background-position: 60%;
 }
-.theme-dark .headerNormal-T_seeN {
-    background-color: rgba(0, 0, 0, 0.123);
+.headerNormal-T_seeN {
+    background-color: rgba(0, 0, 0, 0.123) !important;
 }
-.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
-    background-color: rgba(0, 0, 0, 0.123);
+.body-3iLsc4, .footer-1fjuF6 {
+    background-color: rgba(0, 0, 0, 0.123) !important;
 }
 .textarea-_59yqs{
     background-color: rgba(0, 0, 0, 0.423);
@@ -182,7 +182,6 @@
     background-color: transparent;
     color: white;
 }
-.theme-dark
 .container-2cd8Mz {
     background-color: transparent;
 }
@@ -207,8 +206,8 @@ background-color: rgba(0, 0, 0, 0.223);
 .emptyCard-KDifrB,
 .wrapper-2RrXDg,
 .topSectionPlaying-1J5E4n,
-.theme-dark .inset-SbsSFp {
-    background-color: rgba(0, 0, 0, 0.423);
+.inset-SbsSFp {
+    background-color: rgba(0, 0, 0, 0.423) !important;
 }
 
 .nowPlayingColumn-1eCBCN,
@@ -218,9 +217,9 @@ background-color: rgba(0, 0, 0, 0.223);
 .wrapper-1gVUIN.minimum-fXpVNc {
     background-color: transparent;
 }
-.theme-dark .root-g14mjS,
-.theme-dark .footer-31IekZ {
-    background-color: rgba(0, 0, 0, 0.523);
+.root-g14mjS,
+.footer-31IekZ {
+    background-color: rgba(0, 0, 0, 0.523) !important;
 }
 /*text*/
 .markup-eYLPri {
@@ -276,9 +275,9 @@ element.style {
     1px -1px 0 rgb(0, 0, 0),
     -1px 1px 0 rgb(0, 0, 0);
 }
-.theme-dark .invite-3uuHYQ {
-    background-color: slategray;
-    background: #2e3035;
+.invite-3uuHYQ {
+    background-color: slategray !important;
+    background: #2e3035 !important;
 }
 .container-2oNtJn {
     background-color: rgba(0, 0, 0, 0.423);
@@ -301,12 +300,12 @@ element.style {
 .connectionHeader-2rV1ze {
     background-color: rgba(0, 0, 0, 0.123);
 }
-.theme-dark .codeRedemptionRedirect-3SBiCp {
-    background-color: transparent;
-    border-color: transparent;
+.codeRedemptionRedirect-3SBiCp {
+    background-color: transparent !important;
+    border-color: transparent !important;
 }
-.theme-dark .feature-2IUcBI {
-    background-color: rgba(0, 0, 0, 0.123);
+.feature-2IUcBI {
+    background-color: rgba(0, 0, 0, 0.123) !important;
 }
 .banner-WELp4M {
     background-color: rgba(0, 0, 0, 0.123);
@@ -320,9 +319,9 @@ element.style {
 .item-2idW98[aria-checked=true] {
     background-color: rgba(0, 0, 0, 0.223);
 }
-.theme-dark .card-2ART2V:before {
-    background-color: rgba(0, 0, 0, 0.123);
-    border-color: red;
+.card-2ART2V:before {
+    background-color: rgba(0, 0, 0, 0.123) !important;
+    border-color: red !important;
 }
 .icon-2xnN2Y {
     color:cyan;
@@ -333,17 +332,17 @@ element.style {
 .messages-23can0{
     background-color: rgba(0, 0, 0, 0.123);
 }
-.theme-dark .header-145e10 .tabBar-1qdMr5 .tab-TRrPC8.active-1grPyy {
-    background-color: rgba(0, 0, 0, 0.423);
+.header-145e10 .tabBar-1qdMr5 .tab-TRrPC8.active-1grPyy {
+    background-color: rgba(0, 0, 0, 0.423) !important;
 }
 .item-2LIpTv {
     background: linear-gradient(65deg, rgba(204, 255, 0, 0.185) 10%, rgba(0, 255, 8, 0.178) 89%);
 }
-.theme-dark .selected-3H3-RC {
-    background-color: rgba(0, 0, 0, 0.123);
+.selected-3H3-RC {
+    background-color: rgba(0, 0, 0, 0.123) !important;
 }
-.theme-dark .autocomplete-3NRXG8 {
-    background-color: rgba(0, 0, 0, 0.423);
+.autocomplete-3NRXG8 {
+    background-color: rgba(0, 0, 0, 0.423) !important;
 }
 .inspector-DFKXwB {
     background-color: transparent;
@@ -400,8 +399,8 @@ element.style {
     background-color: rgba(0, 0, 0, 0.223);
     border: rgba(0, 0, 0, 0.223);
 }
-.theme-dark .searchAnswer-23w-CH, .theme-dark .searchFilter-2UfsDk {
-    background-color: rgba(0, 0, 0, 0.423);
+.searchAnswer-23w-CH, .searchFilter-2UfsDk {
+    background-color: rgba(0, 0, 0, 0.423) !important;
 }
 .emojiSection-3QtaWO {
     background-color: rgba(0, 0, 0, 0.523);
@@ -418,16 +417,16 @@ element.style {
     1px -1px 0 rgb(0, 0, 0),
     -1px 1px 0 rgb(0, 0, 0);
 }
-.theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover {
-    background-color: rgba(0, 0, 0, 0.65);
+.outer-2JOHae.active-1W_Gl9,.outer-2JOHae.interactive-2zD88a:hover {
+    background-color: rgba(0, 0, 0, 0.65) !important;
 }
 .lookInverted-2D7oAl.colorGreen-29iAKY {
     color: #43b581;
     background-color: #00000094;
 }
-.theme-dark .message-G6O-Wv {
-    background-color: rgba(0, 0, 0, 0.423);
-    box-shadow: 0 0 0 1px rgba(255, 0, 0, 0.6), 0 2px 10px 0 rgb(0, 255, 242);
+.message-G6O-Wv {
+    background-color: rgba(0, 0, 0, 0.423) !important;
+    box-shadow: 0 0 0 1px rgba(255, 0, 0, 0.6), 0 2px 10px 0 rgb(0, 255, 242) !important;
 }
 .floating-window-titlebar {
     background-color: rgba(0, 0, 0, 0.65);
@@ -466,8 +465,8 @@ element.style {
 .headerXbox-3G-4PF{
     background-color: transparent;
 }
-.theme-dark .contentWrapper-3oy4Xo {
-    background: #54545461;
+.contentWrapper-3oy4Xo {
+    background: #54545461 !important;
 }
 .container-2McqkF {
     background: rgba(0, 0, 0, 0.32) !important;
@@ -487,8 +486,8 @@ element.style {
 .title-3XlmeX {
 	animation: RGB 5s infinite alternate;
 }
-.theme-dark .modal-2RrUKJ {
-    background-color: rgba(0, 0, 0, 0.32);
+.modal-2RrUKJ {
+    background-color: rgba(0, 0, 0, 0.32) !important;
 }
 .option-2eIyOn.focused-ODgjnC, .option-2eIyOn:focus, .option-2eIyOn:hover {
     background-color: rgba(0, 0, 0, 0.32);
@@ -617,8 +616,8 @@ element.style {
     border: transparent;
     background-color: transparent;
 }
-.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
-    background-color: #1447987a;
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+    background-color: #1447987a !important;
 }
 .accountProfileCard-lbN7n- {
     background-color: rgba(0, 0, 0, 0.423); 
@@ -650,7 +649,7 @@ element.style {
 .footer-1Dc_h6 {
     background-color: transparent;
 }
-.theme-dark .prompt-SAnibq {
+.prompt-SAnibq {
     text-shadow:
     2px 0 0 rgb(0, 0, 0),
     -2px 0 0 rgb(0, 0, 0), 
@@ -659,7 +658,7 @@ element.style {
     1px 1px rgb(0, 0, 0), 
     -1px -1px 0 rgb(0, 0, 0), 
     1px -1px 0 rgb(0, 0, 0), 
-    -1px 1px 0 rgb(0, 0, 0);
+    -1px 1px 0 rgb(0, 0, 0) !important;
 }
 .title-1yyp9V {
     text-shadow:
