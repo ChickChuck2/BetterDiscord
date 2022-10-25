@@ -39,6 +39,21 @@
     background-size:cover;
     background-position: 60%;
 }
+/*NEW USERPOPOUT*/
+.userProfileInnerNonPremium-1XjSjn {
+    background-image: url(https://images7.alphacoders.com/908/908284.png);
+    background-size:cover;
+    background-position: 60%;
+}
+.overlayBackground-1KgwVi {
+    background-color: rgba(0,0,0,0.1);
+}
+/**/
+
+.profileBanner-2zIsK7 {
+    background-color: transparent !important;
+}
+
 .headerNormal-T_seeN {
     background-color: rgba(0, 0, 0, 0.123) !important;
 }
@@ -676,4 +691,7 @@ element.style {
 }
 .colorable-3rVGna.primaryDark-2UJt1G:hover {
     background: rgba(0, 0, 0, 0.523);
+}
+.popoutBanner-16rVDY {
+    background-color: transparent !important;
 }
