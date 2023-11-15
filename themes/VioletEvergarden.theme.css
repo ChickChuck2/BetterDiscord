@@ -110,7 +110,7 @@
     background-color: transparent;
 }
 .themed-2-lozF.item-3XjbnG,
-.root-SR8cQa .topSectionNormal-2-vo2m .date-YN6TCS {
+.root-SR8cQa .topSectionNormal-2-vo2m .date-YN6TCS .messageContent__21e69 {
     color: white;
     font-variant: normal;
     text-shadow: 
@@ -268,7 +268,18 @@ background-color: rgba(0, 0, 0, 0.223);
     background-color: rgba(0, 0, 0, 0.523) !important;
 }
 /*text*/
-.markup-eYLPri {
+.markup_a7e664 {
+    text-shadow: 
+    2px 0 0 rgb(0, 0, 0),
+    -2px 0 0 rgb(0, 0, 0), 
+    0 2px 0 rgb(0, 0, 0), 
+    0 -2px 0 rgb(0, 0, 0),
+    1px 1px rgb(0, 0, 0), 
+    -1px -1px 0 rgb(0, 0, 0), 
+    1px -1px 0 rgb(0, 0, 0), 
+    -1px 1px 0 rgb(0, 0, 0);
+}
+.markup-eYLPri .markup_a7e664 {
     text-shadow: 
      2px 0 0 rgb(0, 0, 0),
      -2px 0 0 rgb(0, 0, 0), 
