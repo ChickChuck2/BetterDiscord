@@ -1,10 +1,50 @@
-.app-2CXKsg {
+.visual-refresh .bg__960e4 {
     background: url(https://github.com/ChickChuck2/BetterDiscord/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true);
     background-size: cover;
+}
+.layer__960e4.baseLayer__960e4 {
+    background-color: transparent;
+}
+.visual-refresh .sidebar_c48ade {
+    background-color: transparent;
 }
 .chat-2ZfjoI, .threadSidebar-1o3BTy {
     background-color: transparent;
 }
+.visual-refresh .wrapper_ef3116 {
+    background-color: transparent;
+}
+.visual-refresh .container__133bf
+{
+    background-color: transparent;
+}
+.theme-dark .themed__9293f
+{
+    background-color: transparent;
+}
+.visual-refresh .tabBody__133bf
+{
+    background-color: transparent;
+}
+.container__7d20c {
+    background: transparent;
+}
+.visual-refresh .outer_bf1984{
+    background-color: rgba(0, 0, 0, 0.223);
+}
+.visual-refresh .privateChannels__35e86 {
+    background: transparent;
+}
+.visual-refresh .scroller__99e7c {
+    background: rgba(0, 0, 0, 0.423);
+}
+.visual-refresh .panels_c48ade {
+    background: rgba(0, 0, 0, 0.493);
+}
+.nowPlayingColumn__133bf{
+    background: transparent;
+}
+
 .bg-1QIAus {
     background-color: transparent;
 }
