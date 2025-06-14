@@ -1,48 +1,10 @@
+/*Main Background*/
 .visual-refresh .bg__960e4 {
     background: url(https://github.com/ChickChuck2/BetterDiscord/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true);
     background-size: cover;
 }
-.layer__960e4.baseLayer__960e4 {
-    background-color: transparent;
-}
-.visual-refresh .sidebar_c48ade {
-    background-color: transparent;
-}
-.chat-2ZfjoI, .threadSidebar-1o3BTy {
-    background-color: transparent;
-}
-.visual-refresh .wrapper_ef3116 {
-    background-color: transparent;
-}
-.visual-refresh .chatContent_f75fb0{
-    background: transparent;
-}
-.visual-refresh .chat_f75fb0 {
-    background: transparent;
-}
-.visual-refresh .container__2637a {
-    background: transparent;
-}
-.visual-refresh .container__133bf
-{
-    background-color: transparent;
-}
-.theme-dark .themed__9293f
-{
-    background-color: transparent;
-}
-.visual-refresh .tabBody__133bf
-{
-    background-color: transparent;
-}
-.container__7d20c {
-    background: transparent;
-}
 .visual-refresh .outer_bf1984{
     background-color: rgba(0, 0, 0, 0.223);
-}
-.visual-refresh .privateChannels__35e86 {
-    background: transparent;
 }
 .visual-refresh .scroller__99e7c {
     background: rgba(0, 0, 0, 0.423);
@@ -50,47 +12,11 @@
 .visual-refresh .panels_c48ade {
     background: rgba(0, 0, 0, 0.493);
 }
-.nowPlayingColumn__133bf{
-    background: transparent;
-}
-
-.bg-1QIAus {
-    background-color: transparent;
-}
-.sidebar-1tnWFu {
-    background-color: transparent;
-}
-.container-1NXEtd {
-    background-color: transparent;
-}
-.members-3WRCEx, .members-3WRCEx>div {
-
-    background-color: transparent;
-}
-.container-ZMc96U.themed-Hp1KC_ {
-    background-color: transparent;
-}
 .children-3xh0VB:after {
     position: unset;
 }
-.scroller-2TZvBN,
-.wrapper-1Rf91z {
-    background-color: transparent;
-}
-.scrollableContainer-15eg7h {
-    background-color: transparent;
-}
 .channelTextArea-1FufC0 {
     background: linear-gradient(65deg, rgba(172, 28, 28, 0.185) 92%, rgba(255, 0, 0, 0.178) 89%);
-}
-.scroller-WSmht3{
-    background-color: transparent;
-}
-.privateChannels-oVe7HL {
-    background-color: transparent;
-}
-.panels-3wFtMD {
-    background-color: transparent;
 }
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
     background-color: rgba(1, 1, 1, 0.277);
@@ -109,30 +35,9 @@
     background-size: cover;
     background-position: -140px;
 }
-.topSectionNormal-2-vo2m {
-    background-color: transparent;
-}
-.body-3ND3kc {
-    background-color: transparent;
-}
-.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-    background-color: transparent;
-}
-.layer-86YKbF {
-    background-color: transparent;
-}
 .standardSidebarView-E9Pc3j {
     background-image: url(https://images5.alphacoders.com/782/782977.png);
     background-size:cover;
-}
-.sidebarRegionScroller-FXiQOh {
-    background-color: transparent;
-}
-.contentRegion-3HkfJJ {
-    background-color: transparent;
-}
-.contentRegionScroller-2_GT_N {
-    background-color: transparent;
 }
 .background-3d_SjE {
     background-color: rgba(1, 1, 1, 0.277);
@@ -140,27 +45,8 @@
 .fieldList-in8WkP {
     background-color: rgba(1, 1, 1, 0.277);
 }
-.topSectionPlaying-1J5E4n {
-    background-color: transparent;
-}
-.theme-dark .container-2cd8Mz {
-    background-color: transparent;
-}
-.emptyCard-KDifrB,
-.wrapper-2RrXDg,
-.topSectionPlaying-1J5E4n{
-    background-color: transparent;
-}
 .theme-dark .inset-SbsSFp {
     background-color: rgba(0, 0, 0, 0.423);
-}
-
-.nowPlayingColumn-1eCBCN,
-.headerSpotify-zpWxgT {
-    background-color: transparent;
-}
-.childWrapper-1j_1ub {
-    background-color: transparent;
 }
 .attachment-1PZZB2 {
     background-color: transparent;
@@ -171,9 +57,6 @@
 .theme-dark .uploadModal-2ie9O_ {
     background-image: url(https://images6.alphacoders.com/798/798232.png);
     background-size: cover;
-}
-.theme-dark .footer-VCsJQY {
-    background-color: transparent;
 }
 .colorStandard-21JIj7 {
     color: white;
@@ -193,13 +76,6 @@
     1px -1px 0 rgb(255, 255, 255),
     -1px 1px 0 rgb(255, 255, 255);
 }
-.embedFull-1HGV2S {
-    background-color: transparent;
-}
-.headerPlaying-j0WQBV,
-.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
-    background-color: transparent;
-}
 .full-motion .translate-PeW1wK.didRender-2SiRlm {
     background: none;
     background-image: url(https://images5.alphacoders.com/690/690622.jpg);
@@ -209,15 +85,6 @@
 .bd-addon-list .bd-addon-card,
 .bd-addon-list .bd-addon-header {
     background-color: rgba(0, 0, 0, 0.223);
-}
-.headerXbox-3G-4PF {
-    background-color: transparent;
-}
-.theme-dark .headerNormal-T_seeN {
-    background-color: transparent;
-}
-.theme-dark .headerNormal-T_seeN {
-    background-color: transparent;
 }
 .item-2idW98 {
     background-color: rgba(0, 0, 0, 0.423);
@@ -299,35 +166,14 @@
     background-color: #0000007a;
     color: var(--interactive-active);
 }
-.scroller-3X7KbA {
-    background-color: transparent;
-}
-.wrapper-1_HaEi {
-    background-color: transparent;
-}
 .reaction-2A2y9y {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.25) 42%, rgba(255, 212, 1, 0.25) 89%)
-}
-.headerTop-2y3V6H {
-    background-color: transparent;
-}
-.headerNormal-1l1Znk {
-    background-color: transparent;
 }
 .textarea-_59yqs:focus {
     background-color: rgba(0, 0, 0, 0.223);
 }
 .markup-eYLPri code {
     background-color: rgba(0, 0, 0, 0.493);
-}
-.profileBanner-1owKI5{
-    background-color: transparent !important;
-}
-.header-1w9Q93 {
-    background-color: transparent;
-}
-.messageGroupWrapper-1jf_7C {
-    background-color: transparent;
 }
 .messagesPopoutWrap-3zryHWp {
     background-image: url("https://images6.alphacoders.com/806/806274.png");
@@ -339,9 +185,6 @@
 }
 .channelHeader-DFRX8q {
     background-color: rgba(0, 0, 0, 0.493);
-}
-.messages-23can0 {
-    background-color: transparent;
 }
 .markup-eYLPri {
     color: #ffffff;
@@ -360,9 +203,6 @@
 .lookFilled-1Gx00P.colorRed-1TFJan {
     background-color: rgba(255, 0, 0, 0.295);
     border-radius: 20px;
-}
-.headerTop-2cWpdB {
-    background-color: transparent;
 }
 .avatar-22FtUu {
     background-color: transparent;
@@ -390,10 +230,4 @@
     -1px -1px 0 rgb(0, 0, 0), 
     1px -1px 0 rgb(0, 0, 0), 
     -1px 1px 0 rgb(0, 0, 0);
-}
-.container-1oAagU {
-    background-color: transparent;
-}
-.container-2o3qEW {
-    background-color: transparent;
 }
