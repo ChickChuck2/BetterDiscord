@@ -3,14 +3,21 @@
     background: url(https://github.com/ChickChuck2/BetterDiscord/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true);
     background-size: cover;
 }
-.children-3xh0VB:after {
-    position: unset;
+
+.messagesPopoutWrap-3zryHWp {
+    background-image: url("https://images6.alphacoders.com/806/806274.png");
+    background-size: cover;
 }
-.channelTextArea-1FufC0 {
-    background: linear-gradient(65deg, rgba(172, 28, 28, 0.185) 92%, rgba(255, 0, 0, 0.178) 89%);
+.container-2ebMPP {
+    background-image: url("https://images4.alphacoders.com/787/787087.png");
+    background-size: cover;
 }
-.theme-dark .form-3gdLxP:before {
-    position: unset;
+
+.full-motion .translate-PeW1wK.didRender-2SiRlm {
+    background: none;
+    background-image: url(https://images5.alphacoders.com/690/690622.jpg);
+    background-size: cover;
+    background-position: -194px;
 }
 .root-g14mjS {
     background-image: url(https://images5.alphacoders.com/782/782913.png);
@@ -21,15 +28,26 @@
     background-image: url(https://images5.alphacoders.com/782/782977.png);
     background-size:cover;
 }
+
+.theme-dark .uploadModal-2ie9O_ {
+    background-image: url(https://images6.alphacoders.com/798/798232.png);
+    background-size: cover;
+}
+
+.children-3xh0VB:after {
+    position: unset;
+}
+.channelTextArea-1FufC0 {
+    background: linear-gradient(65deg, rgba(172, 28, 28, 0.185) 92%, rgba(255, 0, 0, 0.178) 89%);
+}
+.theme-dark .form-3gdLxP:before {
+    position: unset;
+}
 .attachment-1PZZB2 {
     background-color: transparent;
     border-color: red;
     border-radius: 20px;
     border-bottom:double 8px red;
-}
-.theme-dark .uploadModal-2ie9O_ {
-    background-image: url(https://images6.alphacoders.com/798/798232.png);
-    background-size: cover;
 }
 .colorStandard-21JIj7 {
     color: white;
@@ -48,12 +66,6 @@
     -1px -1px 0 rgb(255, 255, 255),
     1px -1px 0 rgb(255, 255, 255),
     -1px 1px 0 rgb(255, 255, 255);
-}
-.full-motion .translate-PeW1wK.didRender-2SiRlm {
-    background: none;
-    background-image: url(https://images5.alphacoders.com/690/690622.jpg);
-    background-size: cover;
-    background-position: -194px;
 }
 .item-2idW98[aria-checked=true] {
     background-color: rgba(80, 53, 53, 0.423);
@@ -110,14 +122,6 @@
 }
 .reaction-2A2y9y {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.25) 42%, rgba(255, 212, 1, 0.25) 89%)
-}
-.messagesPopoutWrap-3zryHWp {
-    background-image: url("https://images6.alphacoders.com/806/806274.png");
-    background-size: cover;
-}
-.container-2ebMPP {
-    background-image: url("https://images4.alphacoders.com/787/787087.png");
-    background-size: cover;
 }
 .markup-eYLPri {
     color: #ffffff;
