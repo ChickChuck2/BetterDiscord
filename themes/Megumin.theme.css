@@ -3,29 +3,11 @@
     background: url(https://github.com/ChickChuck2/BetterDiscord/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true);
     background-size: cover;
 }
-.visual-refresh .outer_bf1984{
-    background-color: rgba(0, 0, 0, 0.223);
-}
-.visual-refresh .scroller__99e7c {
-    background: rgba(0, 0, 0, 0.423);
-}
-.visual-refresh .panels_c48ade {
-    background: rgba(0, 0, 0, 0.493);
-}
 .children-3xh0VB:after {
     position: unset;
 }
 .channelTextArea-1FufC0 {
     background: linear-gradient(65deg, rgba(172, 28, 28, 0.185) 92%, rgba(255, 0, 0, 0.178) 89%);
-}
-.searchBar-3TnChZ .searchBarComponent-3N7dCG {
-    background-color: rgba(1, 1, 1, 0.277);
-}
-.searchBar-zdmu7v {
-    background-color: rgba(1, 1, 1, 0.277);
-}
-#bd-pub-button {
-    background-color: rgba(1, 1, 1, 0.277);
 }
 .theme-dark .form-3gdLxP:before {
     position: unset;
@@ -38,15 +20,6 @@
 .standardSidebarView-E9Pc3j {
     background-image: url(https://images5.alphacoders.com/782/782977.png);
     background-size:cover;
-}
-.background-3d_SjE {
-    background-color: rgba(1, 1, 1, 0.277);
-}
-.fieldList-in8WkP {
-    background-color: rgba(1, 1, 1, 0.277);
-}
-.theme-dark .inset-SbsSFp {
-    background-color: rgba(0, 0, 0, 0.423);
 }
 .attachment-1PZZB2 {
     background-color: transparent;
@@ -82,33 +55,11 @@
     background-size: cover;
     background-position: -194px;
 }
-.bd-addon-list .bd-addon-card,
-.bd-addon-list .bd-addon-header {
-    background-color: rgba(0, 0, 0, 0.223);
-}
-.item-2idW98 {
-    background-color: rgba(0, 0, 0, 0.423);
-}
 .item-2idW98[aria-checked=true] {
     background-color: rgba(80, 53, 53, 0.423);
 }
 .anchor-1MIwyf {
     color: red;
-}
-.accountList-305sx3 {
-    background-color: rgba(0, 0, 0, 0.423);
-}
-.connectionHeader-2rV1ze {
-    background-color: rgba(0, 0, 0, 0.423);
-}
-.connection-107AGH {
-    background-color: rgba(0, 0, 0, 0.423);
-}
-.theme-dark .feature-2IUcBI {
-    background-color: rgba(0, 0, 0, 0.423);
-}
-.menu-1QACrS {
-    background: rgba(0, 0, 0, 0.423);
 }
 .lookInverted-2D7oAl.colorBrand-3pXr91 {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
@@ -120,9 +71,6 @@
 .accountBtn-1YkMgV .accountBtnInner-3XK70s {
     background-color: #00000080;
 }
-.cardWrapper-CyvwQv {
-    background-color: rgba(0, 0, 0, 0.493);
-}
 .theme-dark .gemIndicatorContainer-PqApbX {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.49) 42%, rgb(255, 212, 1) 89%);
 }
@@ -130,9 +78,6 @@
     color: #fff;
     background-color: #00000085;
     border-color: #ff00008a;
-}
-.preview-rua1rr{
-    background-color: rgba(0, 0, 0, 0.493);
 }
 .theme-dark {
     --scrollbar-thin-thumb: #ff000069;
@@ -142,9 +87,6 @@
 }
 .wrapper-2vIMkT {
     background-color: #00000099;
-}
-.contentWrapper-3vHNP2 {
-    background-color: rgba(0, 0, 0, 0.6);
 }
 .inspector-DFKXwB {
     background-color: #0000007a;
@@ -169,12 +111,6 @@
 .reaction-2A2y9y {
     background: linear-gradient(65deg, rgba(192, 28, 28, 0.25) 42%, rgba(255, 212, 1, 0.25) 89%)
 }
-.textarea-_59yqs:focus {
-    background-color: rgba(0, 0, 0, 0.223);
-}
-.markup-eYLPri code {
-    background-color: rgba(0, 0, 0, 0.493);
-}
 .messagesPopoutWrap-3zryHWp {
     background-image: url("https://images6.alphacoders.com/806/806274.png");
     background-size: cover;
@@ -183,30 +119,13 @@
     background-image: url("https://images4.alphacoders.com/787/787087.png");
     background-size: cover;
 }
-.channelHeader-DFRX8q {
-    background-color: rgba(0, 0, 0, 0.493);
-}
 .markup-eYLPri {
     color: #ffffff;
     text-shadow: 2px 0 0 rgb(0, 0, 0), -2px 0 0 rgb(0, 0, 0), 0 2px 0 rgb(0, 0, 0), 0 -2px 0 rgb(0, 0, 0), 1px 1px rgb(0, 0, 0), -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0);
 }
-
-.lookFilled-1Gx00P.colorBrand-3pXr91 {
-    background-color: rgba(0, 0, 0, 0.65);
-    border-radius: 20px;
-}
-
-.lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
-    background-color: rgba(0, 0, 0, 0.223);
-}
-
 .lookFilled-1Gx00P.colorRed-1TFJan {
     background-color: rgba(255, 0, 0, 0.295);
     border-radius: 20px;
-}
-.avatar-22FtUu {
-    background-color: transparent;
-    border: transparent;
 }
 .bd-setting-note {
     color: white;
