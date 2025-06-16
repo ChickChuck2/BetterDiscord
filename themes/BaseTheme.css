@@ -247,3 +247,18 @@
 .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
     background-color: rgba(0, 0, 0, 0.223);
 }
+/*Members List*/
+.members_c8ffbb {
+    background: transparent;
+}
+.container_c8ffbb {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+/*Config Menu*/
+.visual-refresh .sidebarRegionScroller__23e6b {
+    background: transparent;
+}
+.visual-refresh .contentRegionScroller__23e6b {
+    background: transparent;
+}
