@@ -262,3 +262,15 @@
 .visual-refresh .contentRegionScroller__23e6b {
     background: transparent;
 }
+/*Atividade e membros (barra direita)*/
+.member_c8ffbb {
+    background: rgba(0, 0, 0, 0.4);
+    margin: 0px 0px 5px 7px;
+}
+.visual-refresh .container__0f2e8 {
+    background: rgba(0, 0, 0, 0.4);
+}
+/*Atividade (Amigos)*/
+.visual-refresh .outer_bf1984.active_bf1984, .visual-refresh .outer_bf1984.interactive_bf1984:hover {
+    background-color: rgba(0,0,0,.6);
+}
