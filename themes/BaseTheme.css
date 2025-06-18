@@ -274,3 +274,15 @@
 .visual-refresh .outer_bf1984.active_bf1984, .visual-refresh .outer_bf1984.interactive_bf1984:hover {
     background-color: rgba(0,0,0,.6);
 }
+
+/*afters*/
+.theme-dark .children__9293f:after {
+    background: transparent;
+}
+/*friends search nar*/
+.searchBar__5ec2f{
+    background: linear-gradient(45deg, #ff6be480, #ef00ff9e);
+}
+.actionButton_f8fa06 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
