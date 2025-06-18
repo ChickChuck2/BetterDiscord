@@ -262,6 +262,10 @@
 .visual-refresh .contentRegionScroller__23e6b {
     background: transparent;
 }
+.contentRegion__23e6b {
+    background: transparent;
+}
+
 /*Atividade e membros (barra direita)*/
 .member_c8ffbb {
     background: rgba(0, 0, 0, 0.4);
@@ -279,6 +283,11 @@
 .theme-dark .children__9293f:after {
     background: transparent;
 }
+.visual-refresh .sidebar_c48ade:after {
+    background: transparent;
+}
+
+
 /*friends search nar*/
 .searchBar__5ec2f{
     background: linear-gradient(45deg, #ff6be480, #ef00ff9e);
