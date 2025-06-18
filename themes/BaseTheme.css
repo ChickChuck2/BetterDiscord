@@ -288,10 +288,21 @@
 }
 
 
-/*friends search nar*/
-.searchBar__5ec2f{
-    background: linear-gradient(45deg, #ff6be480, #ef00ff9e);
-}
 .actionButton_f8fa06 {
     background-color: rgba(0, 0, 0, 0.4);
+}
+/*amigo (infos*/
+:root .user-profile-sidebar {
+    background: rgba(0, 0, 0, .1);
+}
+.card_b32ca4, .overlay_b32ca4, :where(.overlay_c0bea0), .footerButtonColor__7f9c0 {
+    background: rgba(0, 0, 0, .5);
+}
+.banner__7f9c0 {
+    background: transparent !important;
+}
+/*search bar*/
+/*search nar*/
+.searchBar__5ec2f, .visual-refresh .channelTextArea_f75fb0 {
+    background: rgba(0, 0, 0, .4);
 }

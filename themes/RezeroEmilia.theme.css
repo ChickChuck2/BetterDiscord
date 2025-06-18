@@ -446,3 +446,7 @@
 .container-2o3qEW {
     background-color: rgba(0, 0, 0, 0.600);
 }
+/*search nar*/
+.searchBar__5ec2f, .visual-refresh .channelTextArea_f75fb0 {
+    background: linear-gradient(45deg, #ff6be480, #ef00ff9e) !important;
+}
